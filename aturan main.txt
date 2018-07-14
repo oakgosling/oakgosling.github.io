@@ -1,0 +1,3 @@
+1. link url aplikasi === http://localhost/apotek-pratama/admin/dashboard.php
+2. import database apotek-pratama.sql ke phpmyadmin
+3. login --- username = admin ------ password = admin
